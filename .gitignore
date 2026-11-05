@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Training outputs
+lora/
+outputs/
+logs/
+regular_*/
+train_data/
+
+# Downloaded weights / checkpoints
+*.safetensors
+*.ckpt
+*.pth
+*.bin
+*.patch
+
+# Keep the placeholder files inside models/
+models/**
+!models/**/
+!models/**/put_*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

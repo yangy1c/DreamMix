@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you find this work useful, please cite it as below."
+title: "DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting"
+authors:
+  - family-names: Yang
+    given-names: Yicheng
+  - family-names: Li
+    given-names: Pengxiang
+  - family-names: Zhang
+    given-names: Lu
+  - family-names: Ma
+    given-names: Liqian
+  - family-names: Hu
+    given-names: Ping
+  - family-names: Du
+    given-names: Siyu
+  - family-names: Zhuge
+    given-names: Yunzhi
+  - family-names: Jia
+    given-names: Xu
+  - family-names: Lu
+    given-names: Huchuan
+preferred-citation:
+  type: article
+  title: "DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting"
+  authors:
+    - family-names: Yang
+      given-names: Yicheng
+    - family-names: Li
+      given-names: Pengxiang
+    - family-names: Zhang
+      given-names: Lu
+    - family-names: Ma
+      given-names: Liqian
+    - family-names: Hu
+      given-names: Ping
+    - family-names: Du
+      given-names: Siyu
+    - family-names: Zhuge
+      given-names: Yunzhi
+    - family-names: Jia
+      given-names: Xu
+    - family-names: Lu
+      given-names: Huchuan
+  journal: "International Journal of Computer Vision"
+  volume: 134
+  issue: 10
+  year: 2026
+  doi: "10.1007/s11263-026-03066-w"
+  publisher:
+    name: "Springer"
